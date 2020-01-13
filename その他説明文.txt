@@ -1,0 +1,12 @@
+開発期間
+・ライブラリ:約半年
+・ゲーム:約3か月
+
+使用ツール、素材
+・VisualStudio 2019
+・プレイヤーモデル
+https://ux.getuploader.com/9566587/download/45
+・収集対象モデル
+https://bowlroll.net/file/5232
+・ステージ用テクスチャ&障害物用鉄球のテクスチャ
+https://opengameart.org/content/xonotic-skyboxes
